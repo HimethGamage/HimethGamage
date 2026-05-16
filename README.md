@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C# C++ Python**
 
-- 💬 Ask me about **Informatics Institute of Technology Student**
+- 💬 Ask me about 
 
 - 📫 How to reach me **gamagehansana43@gmail.com**
 <details>
