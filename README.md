@@ -8,9 +8,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himethgamage&label=Profile%20views&color=0e75b6&style=flat" alt="himethgamage" /> </p>
 
-- 🌱 I’m currently learning **C# C++ Python**
-
-- 💬 Ask me about 
+- 🌱 I’m currently learning **C++ & Python**
 
 - 📫 How to reach me **gamagehansana43@gmail.com**
 <details>
