@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++ & Python**
 
-- 📫 How to reach me **gamagehansana43@gmail.com**
+- 📫 How to reach me **gamagehimeth01@gmail.com**
 <details>
 <summary>Tools</summary>
 <div>
