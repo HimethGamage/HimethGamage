@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **C++ & Python**
 
+- 📚 Check out my curated [Microsoft Learn Collection](https://learn.microsoft.com/collections/mo84a7tyqr3n0n?wt.mc_id=studentamb_609974) for tech & AI essentials!
+
 - 📫 How to reach me **gamagehimeth01@gmail.com**
 <details>
 <summary>Tools</summary>
